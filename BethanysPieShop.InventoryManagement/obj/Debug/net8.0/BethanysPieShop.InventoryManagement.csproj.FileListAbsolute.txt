@@ -1,0 +1,14 @@
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\bin\Debug\net8.0\BethanysPieShop.InventoryManagement.exe
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\bin\Debug\net8.0\BethanysPieShop.InventoryManagement.deps.json
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\bin\Debug\net8.0\BethanysPieShop.InventoryManagement.runtimeconfig.json
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\bin\Debug\net8.0\BethanysPieShop.InventoryManagement.dll
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\bin\Debug\net8.0\BethanysPieShop.InventoryManagement.pdb
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.AssemblyInfo.cs
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.dll
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\refint\BethanysPieShop.InventoryManagement.dll
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.pdb
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\BethanysPieShop.InventoryManagement.genruntimeconfig.cache
+C:\Users\Madi\Desktop\BethanysPieShop.InventoryManagement\BethanysPieShop.InventoryManagement\obj\Debug\net8.0\ref\BethanysPieShop.InventoryManagement.dll
